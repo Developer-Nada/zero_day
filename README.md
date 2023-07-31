@@ -1,1 +1,1 @@
-It is the first project in the application
+1st exercise
